@@ -50,18 +50,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
+  social-network-links:
   email: "keira.bai@canberra.edu.au"
   facebook: https://www.facebook.com/keira.bai.568
   researchgate: https://www.researchgate.net/profile/Mengjiong-Bai
   linkedin: https://www.linkedin.com/in/keira-mengjiong-bai-6b6959170/
   github: https://github.com/KeiraLalala
   ORCID: 0000-0002-9010-035X
-  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: "@daattali"
-  # whatsapp: 15551212
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
@@ -141,7 +141,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#C4BCEB;"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
