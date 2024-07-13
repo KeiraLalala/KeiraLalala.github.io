@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-# title: Mengjiong (Keira) Bai 
+title: Mengjiong(Keira) Bai/AI research scientist
 
 # Your name to show in the footer
 author: Mengjiong Bai
@@ -40,7 +40,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: /assets/img/Logo_1.1.jpg
+# title-img: /assets/img/Logo_1.1.jpg
 
 
 #####################################
