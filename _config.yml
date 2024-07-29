@@ -51,6 +51,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+<<<<<<< HEAD
+=======
+  email: "keira.bai@canberra.edu.au"
+  facebook: https://www.facebook.com/keira.bai.568
+>>>>>>> c715b519b1c08953058a87290699002ec905619b
   researchgate: https://www.researchgate.net/profile/Mengjiong-Bai
   linkedin: https://www.linkedin.com/in/keira-mengjiong-bai-6b6959170/
   github: https://github.com/KeiraLalala
