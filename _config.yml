@@ -22,8 +22,8 @@ author: Mengjiong Bai
 navbar-links:
   About Me: "aboutme"
   Resume:
-    - Skills & Experience: "Experience.html"
-    - Education: "Education.html"
+    - Skills & Experience: "Experience/"
+    - Education: "Education/"
     - Contribution: "https://www.markdowntutorial.com/"
   My PhD: "https://keiralalala.github.io/"
 
