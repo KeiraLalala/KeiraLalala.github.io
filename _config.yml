@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Mengjiong(Keira) Bai/AI research scientist
+title: Dr.Mengjiong(Keira) Bai/AI research scientist
 
 # Your name to show in the footer
 author: Mengjiong Bai
@@ -20,12 +20,12 @@ author: Mengjiong Bai
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resume:
-    - Skills & Experience: "Experience/"
-    - Education: "Education/"
-    - Contribution: "https://www.markdowntutorial.com/"
-  My PhD: "https://keiralalala.github.io/"
+  #Resume:
+   # - Skills: "skills/" 
+   # - Experience: "Experience/"
+   # - Education: "Education/"
+   # - Contribution: "https://www.markdowntutorial.com/"
+  ABOUT ME: "https://keiralalala.github.io/"
 
 ################
 # --- Logo --- #
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
